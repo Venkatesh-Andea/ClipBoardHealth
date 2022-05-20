@@ -6,12 +6,17 @@ Page objects wrtitten on Selenide wrapper.
 
 
 **Getting Started**
+
 Download any of the IDE to run the framework
+
 IntelliJ- https://www.jetbrains.com/idea/download/#section=windows 
+
 Eclipse - https://www.eclipse.org/downloads/
 
 **Running Examples**
+
 Download the zip or clone the Git repository.
+
 Unzip the zip file (if you downloaded one).
 Open Command Prompt and Change directory (cd) to folder where ypou want to clone
 Open IntelliJ/Eclipse
