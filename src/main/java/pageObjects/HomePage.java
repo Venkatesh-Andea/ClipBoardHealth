@@ -17,10 +17,6 @@ public class HomePage {
     private static final By televisions_link    = By.xpath("//*[text()='Televisions']");
 
 
-    public void ForgotPassword(WebDriver driver){
-        this.driver= driver;
-    }
-
     /**
      * click on Hamburger Button
      */
