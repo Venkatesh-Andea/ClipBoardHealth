@@ -37,8 +37,10 @@ You are all Set
 **Folder Structure: **
 
 The Project has two folders under src folder
-1.main
-2.test
+
+**1.main**
+
+**2.test**
 
 main Folder has pageObjects for each page of the application and a resources folder where framework base class, properties, logs, reporting 
 
