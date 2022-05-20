@@ -56,9 +56,9 @@ The base class has the browser setup and initialization methods, properties file
 
 classes objects have been created so that user can access the methods inside pageObject classes.
 
-pom.xml: It has all the dependencies used in the project.
+**pom.xml:** It has all the dependencies used in the project.
 
-testng.xml:  It is used to run the test classes by package type, suite, or by individual classes. This is also used for Parallel testing as well as used 
+**testng.xml:**  It is used to run the test classes by package type, suite, or by individual classes. This is also used for Parallel testing as well as used 
 
 mainly while integrating with any CI/CD tool.
 
