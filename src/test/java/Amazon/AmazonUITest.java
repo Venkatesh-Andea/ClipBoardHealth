@@ -43,7 +43,7 @@ public class AmazonUITest extends base{
     }
 
 @Test
-    public void addMobile() throws InterruptedException {
+    public void filterSamsungTv() throws InterruptedException {
         homepage.clickHamburgerButton();
         homepage.clickTvAppliancesElectronicsLink();
         homepage.clickTelevisonsLink();
@@ -61,6 +61,6 @@ public class AmazonUITest extends base{
 
     @AfterClass
     public void teardown() {
-        driver.close();
+        Selenide.closeWebDriver();
     }
 }

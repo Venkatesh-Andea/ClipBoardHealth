@@ -34,14 +34,14 @@ public class base {
 	if(browserName.equals("chrome"))
 	{
 	  	WebDriverManager.chromedriver().setup();
-		driver= new ChromeDriver();  // WebDriverManager will take care of broswer.exe files
+		//driver= new ChromeDriver();  // WebDriverManager will take care of broswer.exe files
 		//execute in chrome driver
 	
 	}
 	else if (browserName.equals("firefox"))
 	{
 		WebDriverManager.firefoxdriver().setup();
-		driver= new FirefoxDriver();
+		//driver= new FirefoxDriver();
 	//firefox code
 	}
 	else if (browserName.equals("IE"))

@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50dd0ccb-9314-46ed-b54a-f05e24753a19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/prints-2022-05-19.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/prints-2022-05-19.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/prints-2022-05-20.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/prints-2022-05-20.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/prints.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/prints.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/validateAppTitle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/TelevisionsSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/TelevisionsSearchPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/resources/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/base.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Amazon/AmazonUITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Amazon/AmazonUITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/ForgotPassword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/resources/ExtentReporterNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resources/ExtentReporterNG.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/resources/base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resources/base.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Amazon/AmazonUITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Amazon/AmazonUITest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Amazon/Listeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Amazon/Listeners.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Amazon/validateTitle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
