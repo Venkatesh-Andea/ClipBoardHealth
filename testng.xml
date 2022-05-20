@@ -4,9 +4,10 @@
 <listeners>
 <listener class-name="Amazon.Listeners"/>
 </listeners>
-
-  <test name="Validating User login">
-
-      </test>
+    <test name="Samsung Tv">
+    <classes>
+        <class name="Amazon.AmazonUITest"/>
+    </classes>
+    </test>
    <!-- Test -->
 </suite> <!-- Suite -->
